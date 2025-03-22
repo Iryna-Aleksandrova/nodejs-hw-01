@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "0cddc353-0a98-4aef-9b18-1c0d9d49610a",
+    "name": "Justin Ziemann",
+    "phone": "(347) 781-5901 x3203",
+    "email": "Madge.Conroy50@hotmail.com",
+    "job": "Forward Configuration Strategist"
+  },
+  {
+    "id": "670f8ba7-290b-4dab-aa4a-e011178fddad",
+    "name": "Jeff Ullrich",
+    "phone": "(372) 219-3569",
+    "email": "Patience.Roob21@hotmail.com",
+    "job": "Investor Security Orchestrator"
+  },
+  {
+    "id": "0612b6fb-a7cb-4367-b0de-74e98446544a",
+    "name": "Winifred Mraz",
+    "phone": "(262) 679-1604 x57236",
+    "email": "Donnie_Mraz63@yahoo.com",
+    "job": "Dynamic Communications Administrator"
+  },
+  {
+    "id": "b00a3880-e584-441e-96c8-39d6f04bfe19",
+    "name": "Shelly Murazik",
+    "phone": "(793) 226-4267 x91976",
+    "email": "Mallie.Gutkowski-Kutch86@hotmail.com",
+    "job": "Global Applications Facilitator"
+  },
+  {
+    "id": "a4b35ace-a5fe-46d6-877c-4e810215d3b2",
+    "name": "Molly Dibbert-Ledner",
+    "phone": "1-960-342-1870",
+    "email": "Caden66@yahoo.com",
+    "job": "Human Operations Technician"
+  }
+]
