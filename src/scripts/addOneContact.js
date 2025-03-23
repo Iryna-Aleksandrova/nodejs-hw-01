@@ -3,9 +3,15 @@ import { readContacts } from '../utils/readContacts.js';
 import { writeContacts } from '../utils/writeContacts.js';
 
 export const addOneContact = async () => {
-  const contactList = await readContacts();
-  const newContacts = createFakeContact();
-  writeContacts([...contactList, ...newContacts]);
+  try {
+    const contactList = await readContacts();
+    const newContact = createFakeContact();
+    const updatedContacts = [...contactList, newContact];
+    await writeContacts(updatedContacts);
+    console.log('Added one product');
+  } catch (error) {
+    console.log(error);
+  }
 };
 
 addOneContact();
